@@ -1,4 +1,7 @@
-Emotes:
+# Characters
+Kor: Character_Division_Evo
+
+# Emotes:
 Point and Strut: EID_Bewilder
 Dancing Domino: EID_Camouflage
 Boy's A Liar: EID_Deceiver
