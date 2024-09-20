@@ -1,5 +1,6 @@
 # Characters
-Kor: Character_Division_Evo
+Kor: CID_Division_Evo
+Iron Man Mk 45: CID_BikeMold_Evo
 
 # Emotes:
 Point and Strut: EID_Bewilder
@@ -26,6 +27,6 @@ You Should See Me In A Crown: EID_Adapter
 
 # Music Packs
 Kid Cudi: Kid_Cudi
-The Box: The_Box
+The Box: MusicPacks_TheBox_Evo
 
 (Remember that you can check the emotes in https://fortnite.gg/cosmetics?game=br&type=emote)
