@@ -3,6 +3,7 @@ Kor: CID_Division_Evo
 Iron Man Mk 45: CID_BikeMold_Evo
 Blue IKONIK: CID_KpopFashionEvo_Evo
 Kyra: CID_GreenJacket_Evo
+Windwalker Echo: CID_Windwalker_Evo
 
 # Emotes:
 Point and Strut: EID_Bewilder
